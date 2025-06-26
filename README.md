@@ -1,4 +1,4 @@
-#Proyecto: Análisis de Comportamiento en Reservas de Hotel
+# Proyecto: Análisis de Comportamiento en Reservas de Hotel
 ## Objetivo
 Identificar patrones de comportamiento en las reservas de un hotel urbano, con énfasis en las cancelaciones, el canal de reserva, el tiempo de anticipación y el origen de los huéspedes.
 
