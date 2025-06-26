@@ -1,0 +1,101 @@
+reserva_id,canal_reserva,dias_anticipacion,noches,cancelada,tipo_habitacion,precio_total,pais_origen
+001,Booking,7,5,No,Suite,613679,Perú
+002,Agencia,5,2,No,Suite,337889,México
+003,Booking,28,1,No,Familiar,883814,España
+004,Web Directo,12,7,Sí,Suite,267122,México
+005,Whatsapp,30,6,Sí,Estándar,866590,Estados Unidos
+006,Web Directo,8,7,Sí,Suite,608874,Chile
+007,Whatsapp,28,5,No,Suite,459577,Colombia
+008,Web Directo,21,7,Sí,Familiar,488218,Argentina
+009,Whatsapp,26,7,No,Estándar,597828,España
+010,Booking,3,5,No,Estándar,421757,Perú
+011,Web Directo,27,7,Sí,Suite,364809,Perú
+012,Agencia,14,4,No,Estándar,808081,España
+013,Agencia,11,6,No,Familiar,322256,Estados Unidos
+014,Agencia,22,1,No,Estándar,305878,Argentina
+015,Whatsapp,14,4,No,Suite,780337,España
+016,Agencia,16,7,Sí,Familiar,902948,Estados Unidos
+017,Web Directo,17,6,Sí,Familiar,620584,Colombia
+018,Web Directo,23,4,No,Estándar,389819,Colombia
+019,Whatsapp,20,7,Sí,Estándar,907887,Perú
+020,Whatsapp,2,3,Sí,Estándar,238598,Chile
+021,Web Directo,20,7,Sí,Suite,967611,España
+022,Whatsapp,13,6,No,Estándar,406442,Colombia
+023,Agencia,16,6,Sí,Estándar,901655,Perú
+024,Booking,26,3,Sí,Suite,566205,Estados Unidos
+025,Web Directo,29,1,No,Suite,852684,Perú
+026,Whatsapp,13,1,Sí,Estándar,232323,Argentina
+027,Whatsapp,30,5,No,Suite,413819,Chile
+028,Booking,4,5,Sí,Suite,938354,Perú
+029,Web Directo,11,5,Sí,Suite,899967,Argentina
+030,Agencia,16,1,No,Estándar,779317,México
+031,Whatsapp,27,4,Sí,Suite,476265,España
+032,Agencia,21,4,Sí,Familiar,833431,México
+033,Web Directo,13,6,Sí,Estándar,705700,España
+034,Agencia,29,5,Sí,Estándar,728981,Chile
+035,Booking,0,1,No,Suite,295069,Perú
+036,Booking,11,2,No,Familiar,619131,Argentina
+037,Agencia,7,7,Sí,Familiar,234814,Colombia
+038,Web Directo,22,5,No,Suite,624725,Estados Unidos
+039,Agencia,23,6,Sí,Estándar,667960,Chile
+040,Booking,13,4,No,Estándar,203251,España
+041,Whatsapp,9,3,No,Estándar,247459,Estados Unidos
+042,Whatsapp,21,1,Sí,Familiar,736800,Perú
+043,Booking,19,4,Sí,Familiar,533994,Estados Unidos
+044,Whatsapp,24,6,No,Suite,387568,España
+045,Whatsapp,13,3,No,Familiar,648566,México
+046,Web Directo,21,6,No,Suite,351540,Colombia
+047,Agencia,4,3,No,Familiar,304000,Perú
+048,Agencia,29,4,Sí,Familiar,252018,Perú
+049,Agencia,28,4,Sí,Familiar,814801,Argentina
+050,Web Directo,3,3,Sí,Suite,638006,México
+051,Agencia,22,5,No,Suite,761423,Perú
+052,Whatsapp,19,4,Sí,Suite,811916,México
+053,Web Directo,14,1,No,Estándar,894875,Colombia
+054,Booking,7,7,Sí,Estándar,601680,Perú
+055,Whatsapp,20,5,Sí,Familiar,214509,España
+056,Booking,4,4,No,Suite,368556,España
+057,Web Directo,24,1,Sí,Estándar,608713,España
+058,Web Directo,13,2,Sí,Familiar,322205,México
+059,Whatsapp,17,1,Sí,Estándar,995373,Chile
+060,Agencia,6,6,Sí,Suite,851245,Argentina
+061,Web Directo,0,7,No,Suite,713065,Perú
+062,Agencia,5,6,Sí,Familiar,983632,Colombia
+063,Web Directo,16,7,No,Familiar,436328,Argentina
+064,Web Directo,29,7,Sí,Estándar,322480,Argentina
+065,Booking,5,7,No,Suite,587891,Perú
+066,Agencia,30,2,No,Familiar,238408,Argentina
+067,Whatsapp,26,4,No,Familiar,497344,Perú
+068,Web Directo,8,3,Sí,Suite,721834,Perú
+069,Booking,0,2,No,Estándar,261965,Perú
+070,Whatsapp,27,5,Sí,Estándar,602498,Chile
+071,Web Directo,23,7,Sí,Familiar,625196,Chile
+072,Booking,29,7,Sí,Familiar,518776,Argentina
+073,Booking,13,4,No,Estándar,623605,Estados Unidos
+074,Web Directo,19,3,Sí,Familiar,599538,Argentina
+075,Whatsapp,17,4,No,Suite,640436,México
+076,Whatsapp,1,6,No,Familiar,426886,Perú
+077,Whatsapp,9,1,Sí,Familiar,344522,México
+078,Agencia,22,1,Sí,Estándar,262065,Colombia
+079,Whatsapp,17,5,Sí,Suite,783420,Perú
+080,Booking,4,5,Sí,Estándar,344608,México
+081,Agencia,16,3,No,Familiar,487083,Perú
+082,Web Directo,23,1,No,Familiar,746547,Estados Unidos
+083,Web Directo,23,4,Sí,Suite,862478,México
+084,Booking,24,7,Sí,Estándar,828056,Estados Unidos
+085,Booking,9,2,Sí,Familiar,270255,Perú
+086,Agencia,3,1,Sí,Suite,443160,España
+087,Whatsapp,30,1,No,Estándar,739947,Perú
+088,Whatsapp,5,5,Sí,Familiar,681151,España
+089,Booking,26,6,No,Familiar,412125,México
+090,Booking,27,7,Sí,Estándar,390009,Argentina
+091,Whatsapp,11,5,Sí,Familiar,966344,Argentina
+092,Agencia,5,5,Sí,Familiar,806624,Argentina
+093,Booking,19,6,Sí,Suite,933419,México
+094,Booking,20,1,Sí,Estándar,640410,México
+095,Whatsapp,7,5,No,Suite,613333,Estados Unidos
+096,Whatsapp,5,7,Sí,Estándar,863976,Estados Unidos
+097,Whatsapp,28,3,No,Estándar,313332,México
+098,Agencia,29,5,No,Estándar,879549,Perú
+099,Whatsapp,3,2,Sí,Estándar,303741,México
+100,Web Directo,24,6,No,Familiar,694855,Chile
